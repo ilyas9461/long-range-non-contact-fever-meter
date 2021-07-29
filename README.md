@@ -1,4 +1,4 @@
-### **Temassız Ateş Ölçer**
+### **Dokunmasız Ateş Ölçer**
 
 Covid-19 Pandemi süreciyle beraber özellikle birçok kurum, kuruluş ve dükkanlar girişlerde müşterilerinin ateşini ölçmeye başladılar. Bu amaçla bir görevli girişte gelen müşterinin ateşini ölçerek kontrol etmeye çalışıyordu. Bu durum da fazladan iş yükü ve istihdam anlamına geliyordu.
 
@@ -16,7 +16,7 @@ Sonuç 4 dijit 7 sement displayde gösterilirken sesli uyarı ile de ateş durum
 
 ## Örnek Çalışma videosu ;
 
-[Temassız Ateş Ölçer](https://www.youtube.com/watch?v=XiiImlEgAi0)
+[Dokunmasız Ateş Ölçer](https://www.youtube.com/watch?v=XiiImlEgAi0)
 
 ## ***Not :***
 
