@@ -14,9 +14,7 @@ Yapılan çalışmalarda  MLX90614 serisi infrared ateş ölçerler kullanılmı
 
 Sonuç 4 dijit 7 sement displayde gösterilirken sesli uyarı ile de ateş durumu söylenmektedir.
 
-## Örnek Çalışma videosu ;
-
-[Dokunmasız Ateş Ölçer](https://www.youtube.com/watch?v=XiiImlEgAi0)
+## Örnek Çalışma videosu ; [Dokunmasız Ateş Ölçer](https://www.youtube.com/watch?v=XiiImlEgAi0)
 
 ## ***Not :***
 
