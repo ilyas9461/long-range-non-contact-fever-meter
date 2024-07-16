@@ -1,21 +1,25 @@
-### **Dokunmasız Ateş Ölçer**
+### **Touchless Fever Meter**
 
-Covid-19 Pandemi süreciyle beraber özellikle birçok kurum, kuruluş ve dükkanlar girişlerde müşterilerinin ateşini ölçmeye başladılar. Bu amaçla bir görevli girişte gelen müşterinin ateşini ölçerek kontrol etmeye çalışıyordu. Bu durum da fazladan iş yükü ve istihdam anlamına geliyordu.
+During the COVID-19 pandemic, many institutions, organizations and shops began to measure the temperature of their customers at the entrance. For this purpose, an officer was trying to check the fever of the customer at the entrance by measuring the fever. This meant extra workload and employment.
 
-Görevli kişi olmaksızın dokunmasız uzaktan ateş ölçmekle ilgili bir çözüm oluşturmak için bub sistem geliştirilmiştir.
+This system was developed to create a solution for touchless remote fever measurement without a person in charge.
 
 <img src="assets/20210718_143202_temperature_mlxclose.jpg" alt="mlx90614" width="30%" height="30%" align="left" style="margin-right:15px">
 
-Yapılan çalışmalarda  MLX90614 serisi infrared ateş ölçerler kullanılmıştır. Bu sensörler fabrikasyon olarak sıcaklık aralıklar kalibreli bir şekilde üretilmektedir. Firmaya ait ilgili veri sayfalarına bakılabilir.
+MLX90614 series infrared thermometers were used in the studies. These sensors are fabricated with calibrated temperature ranges. Relevant data sheets of the company can be viewed.
 
 <br><br>
 
-Ölçüm mesafesine giren kullanıcının ateşi uzaktan (sensöre göre 3-40 cm) ölçülmekte ve sesle uyarı verilmektedir. Hatalı ölçümlere karşı ateşin yüksek çıktığı durumlarda en az üç defa daha ölçüm yaptırılıp sonuca ulaşılmaktadır.
+The temperature of the user who enters the measurement range is measured from a distance (3-40 cm depending on the sensor) and an audible warning is given. In cases where the fever is high to avoid erroneous measurements, at least three more measurements are made and the result is obtained.
 
-Sonuç 4 dijit 7 sement displayde gösterilirken sesli uyarı ile de ateş durumu söylenmektedir.
+While the result is shown on a 4-digit, 7-segment display, the fever status is announced with an audible warning.
 
-## Örnek Çalışma videosu ; [Dokunmasız Ateş Ölçer](https://www.youtube.com/watch?v=XiiImlEgAi0)
+## Case Study video
+<a href="https://www.youtube.com/watch?v=XiiImlEgAi0" target="_blank">
+     <img src="./img/youtube.png" alt="youtube" width="55">
+</a>
 
-## ***Not :***
 
-Ürün endüstriyel olarak kullanımda olduğu için mesafe ile ilgili kalibrasyon dataları paylaşılmamıştır. Sorumluluk yapan kişilere aittir.
+## ***Note :***
+
+Since the product is in industrial use, distance-related calibration data has not been shared. Responsibility belongs to the people who do it.
