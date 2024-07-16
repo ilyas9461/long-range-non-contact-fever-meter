@@ -14,12 +14,12 @@ The temperature of the user who enters the measurement range is measured from a 
 
 While the result is shown on a 4-digit, 7-segment display, the fever status is announced with an audible warning.
 
+<img src="./schematic-pcb/mlx90614_ardu.png" alt="youtube" >
+
 ## Case Study video
 <a href="https://www.youtube.com/watch?v=XiiImlEgAi0" target="_blank">
      <img src="./assets/youtube.png" alt="youtube" width="55">
 </a>
 
 
-## ***Note :***
 
-Since the product is in industrial use, distance-related calibration data has not been shared. Responsibility belongs to the people who do it.
