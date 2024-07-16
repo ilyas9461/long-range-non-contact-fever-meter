@@ -16,7 +16,7 @@ While the result is shown on a 4-digit, 7-segment display, the fever status is a
 
 ## Case Study video
 <a href="https://www.youtube.com/watch?v=XiiImlEgAi0" target="_blank">
-     <img src="./img/youtube.png" alt="youtube" width="55">
+     <img src="./assets/youtube.png" alt="youtube" width="55">
 </a>
 
 
