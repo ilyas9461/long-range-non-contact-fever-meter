@@ -12,7 +12,7 @@ The temperature of the user who enters the measurement range is measured from a 
 
 While the result is shown on a 4-digit, 7-segment display, the fever status is announced with an audible warning.
 
-<img src="./schematic-pcb/mlx90614_ardu.png" alt="youtube" width="%60" >
+<img src="./schematic-pcb/mlx90614_ardu.png" alt="youtube" width="50%" >
 
 ## Case Study video
 <a href="https://www.youtube.com/watch?v=XiiImlEgAi0" target="_blank">
